@@ -12,6 +12,7 @@ Consigli del giorno:
 
 // Scriviamo il codice per stampare i numeri da 1 a 100
 // utilizzo il ciclo for
+// inizializzo una variabile contatore i = 1
 // inserisco la condizione di fine ciclo
 // incremento la variabile contatore i++ 
 
